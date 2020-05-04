@@ -1,3 +1,7 @@
 .avatar-wrapper img {
     border-radius: 50%;
 }
+
+main {
+    background: url("/assets/img/karate-man.png") top center no-repeat;
+}
